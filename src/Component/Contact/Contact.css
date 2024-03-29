@@ -1,0 +1,100 @@
+.t{
+    display:grid;
+    grid-template-columns: 6fr 6fr;
+    background-color: black;
+}
+.la{
+    margin-top:-300px;
+    margin-left:30px;
+    background-image: url('https://wallpaperset.com/w/full/b/c/1/110677.jpg');
+    border-radius: 50px;;
+    border:2px solid black;
+    
+}
+.av{
+    margin-left:30px;
+    color:white;
+    margin-top:20px;
+}
+.lu{
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/images6/Cute-Plain-Backgrounds-HD.jpg');
+    background-size: cover;
+   
+    text-align: center;;
+    border-radius: 50px;;
+    margin-left:20px;
+    margin-top:-300px;
+    border:2px solid black;
+}
+.pa{
+    
+    font-size:25px;
+    color:hwb(0 1% 98%);
+    margin-left: 150px;;
+    
+}
+.ab{
+    color:hwb(0 2% 94%);
+    margin-top: 20px;;
+}
+i{
+    
+    font-size:20px;
+}
+.pu{
+    font-size:20px;
+    margin-left:20px;
+    color:white;
+}
+.ni{
+    width:100%;
+  height:40px;
+  border-radius: 10px;;
+  
+  border: 2px solid black;
+}
+#name{
+    color:black;
+}
+#message{
+    padding:5px;
+}
+.no{
+    margin-top:20px;
+    font-size:20px;
+    margin-left: 100px;;
+    border-radius: 100px;;
+    padding:10px;
+}
+.mi:hover{
+    background-color: hsl(300, 15%, 44%);
+    color: white;
+    font-size:20px;
+}
+/*button{
+    width:50px;
+    font-size:80px;
+    margin-left:40px;
+    margin-right: 40px;;
+    margin-top: 30px;;
+     
+}*/
+.mi{
+    width:200px;
+    margin-bottom:20px;
+    margin-top:30px;
+    margin-left:40px;
+    background-color: green;
+    padding:10px;
+    font-size:20px;
+    border-radius:20px;
+}
+.mo{
+    margin-top:5px;
+    border-radius:40px;;
+    margin-left:30px;
+    
+}
+.mp{
+    color:white;
+}

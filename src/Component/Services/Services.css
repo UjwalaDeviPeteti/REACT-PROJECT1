@@ -1,0 +1,133 @@
+.forms {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100;
+    background-image:url('https://businesstoday.co.ke/wp-content/uploads/2018/03/Insurance-1024x536.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .form-container{
+    margin-left:700px;
+    margin-right:100px;
+
+  }
+  .hj{
+    color:black;
+  }
+  
+  .success-message {
+    background-color: #4caf50; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding around the message */
+    margin-bottom: 20px; /* Bottom margin to separate it from other elements */
+    text-align: center; /* Center-align the text */
+    font-weight: bold; /* Bold font weight */
+    position: fixed; /* Fixed positioning */
+    top: 15%; /* 50% from the top of the viewport */
+    left: 70%; /* 50% from the left of the viewport */
+    transform: translate(-50%, -50%); /* Center the message horizontally and vertically */
+    z-index: 999; /* Ensure the message appears above other elements */
+  }
+  
+  
+  
+  form {
+    background-color: hsl(0, 100%, 0%);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 500px;
+    max-width: 100%;
+    margin-left:10px;
+  }
+  
+  .form-group {
+    margin-bottom: 16px;
+    border-radius: 20px;
+  }
+  #policyNumber{
+    border-radius: 20px;
+  
+  }
+  .hj{
+    text-align:center;
+    margin-bottom:10px;
+    margin-top:80px;
+  }
+  #policyholderName{
+    border-radius: 20px;
+  }
+  #policyholderEmail{
+    border-radius: 20px;
+  }
+  #vehicleMake{
+    border-radius: 20px;
+  }
+  #vehicleModel{
+    border-radius: 20px;
+  }
+  #vehicleYear{
+    border-radius: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  input,
+  select,
+  #btn3 {
+   width:100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border-radius:20px;
+  }
+  
+  #btn3 {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #btn3:hover {
+    background-color: #45a049;
+  }
+  /* Print styles for printed form data */
+@media print {
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: #333;
+  }
+
+  h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #000;
+  }
+
+  p {
+    margin-bottom: 5px;
+  }
+
+  strong {
+    font-weight: bold;
+  }
+}
+.btn8{
+  border:1px solid black;
+  margin-top:-600px;
+  margin-left:970px;
+  background-color: black;;
+  color:white;
+  padding:10px;
+  border-radius:10px;
+  font-size:20px;
+}

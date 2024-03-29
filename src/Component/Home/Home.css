@@ -1,0 +1,112 @@
+.c{
+    background-image: url('https://m.foolcdn.com/media/dubs/images/Getty_-_insurance_life_car_home_family_protect.width-880.jpg');
+    height:800px;
+    background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    margin-top:-40px;
+    opacity: 0.9;
+    
+}
+.r{
+    text-align:center;
+    font-size: 70px;
+    font-family:bold;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height:600px;
+    margin-top:-50px;
+    
+
+}
+.l{
+    margin-right:20px;
+    margin-top:-250px;
+    padding:10px;
+    border-radius:20px;
+    font-size:20px;
+    
+
+
+}
+/* .ba{
+    font-size:30px;
+    border-radius:30px;
+    
+    width:400px;
+    height:60px;
+   
+    /* background-color: #181117; */
+    /* color:white;
+    font-family:bold; */
+
+/* .ba:hover{
+    background-color: rgb(58, 55, 55);
+}  */
+.v{
+    display:grid;
+    grid-template-columns:6fr 6fr;
+}
+.m{
+    opacity:0.9;
+}
+.m:hover{
+    opacity:0.6;
+}
+.ww{
+    opacity:0.9;
+}
+.ww:hover{
+    opacity:0.7;
+}
+.h{
+    margin:20px 20px 20px 20px;
+    justify-content:center;
+    
+}
+.h{
+    font-size:30px;
+}
+#w{
+    font-size:20px;
+}
+
+#rf{
+  
+    color:white;
+    font-size:30px;
+    font-family:bold;
+    text-decoration:none;
+    
+    padding:10px;
+    border-radius:20px;
+    background-color:rgb(79, 79, 82);
+}
+#rf:hover{
+    background-color:rgb(102, 101, 101);
+    color:black;
+}
+.fo{
+    text-align:center;
+    font-size:50px;
+    font-family:bold;
+
+}
+.ww{
+    border:3px solid black;
+}
+#in{
+    margin:3px solid black;
+    color:white;
+    background-color:black;
+    font-family: bold;
+    text-decoration:none;
+    border-radius:30px;
+    padding:10px;
+    width:20px;
+}
+.ih{
+    color:black;
+}

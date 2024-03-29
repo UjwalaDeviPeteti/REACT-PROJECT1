@@ -1,0 +1,100 @@
+.container1 {
+    max-width: 400px;
+    margin: 50px auto;
+    background-color: rgb(14, 7, 7);
+    padding: 20px;
+    border-radius: 60px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width:900px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    border-radius: 60px;
+    padding:40px;
+    background-image:radial-gradient(hsl(0, 6%, 70%),black);
+}
+
+label {
+    margin-bottom: 10px;
+    color:white;
+}
+.lk{
+    margin-bottom:10px;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid hsl(0, 33%, 3%);
+    border-radius: 4px;
+    box-shadow:20px;
+}
+
+#btn2 {
+    background-color: #4c90af;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size:20px;
+}
+
+#btn2:hover {
+    background-color: #68717b;
+
+}
+.le{
+    border-radius: 30px;;
+    box-shadow:20px;
+}
+.signup-heading{
+    color:rgb(8, 7, 7);
+    text-align:center;
+    margin-right:500px;
+    margin-bottom:20px;
+}
+.SignUpForm-container{
+margin-left:500px;
+
+
+
+    
+  
+  
+margin-top:20px;
+
+}
+.lla{
+  
+    background-image: url('https://www.digisigner.com/wp-content/uploads/2019/10/digital-trends-which-are-transforming-the-insurance-industry-esignatures.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat;
+    background-position: center;
+    height:800px;
+  
+}
+marquee{
+    font-size:20px;
+    background-image:linear-gradient(white,#f37f93);
+    padding:20px;
+}
+#om{
+    text-decoration: none;
+    color:white;;
+    margin-left:150px;
+    width:100px;
+    padding:5px;
+    border-radius: 20px;;
+    font-size:20px;
+    margin-top:10px;
+}
+#om:hover{
+    background-color:#33dada;
+    color:hsl(0, 0%, 5%);
+    border-radius: 20px;
+    font-size:20px;
+}
